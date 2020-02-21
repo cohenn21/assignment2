@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:500&display=swap');
+
+li, a, button {
+  font-family: "Noto Sans JP", sans-seriff;
+  font-weight: 500;
+  font-size: 16px;
+  color: #edf0f1;
+  text-decoration: none;
+}
+
+body {
+background-color: #FFF1D0;
+}
+
+P {
+  font-family: Georgia, serif;
+}
+
+nav{
+  margin-bottom: 4em;
+}
+
+h1 {
+font-size: 2rem;
+text-align: center;
+color: #07A0C3;
+}
+
+#canDo {
+  font-size: 6em;
+  font-family: "Noto Sans JP", sans-serif;
+  margin-bottom: 1em;
+  border-bottom: 3px dotted #DD1C1A;
+  text-decoration: none;
+}
